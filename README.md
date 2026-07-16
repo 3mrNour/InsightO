@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/insighto-logo.png" alt="InsightO Logo" width="200" />
+  <img src="assets\LOGOINSIGHTO.png" alt="InsightO Logo" width="200" />
 </p>
 
 <h1 align="center">InsightO</h1>
