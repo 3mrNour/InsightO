@@ -2,8 +2,6 @@
   <img src="assets\LOGOINSIGHTO.png" alt="InsightO Logo" width="200" />
 </p>
 
-<h1 align="center">InsightO</h1>
-
 <p align="center">
   <strong>🧠 AI-Powered 360° Evaluation Platform for Educational Excellence</strong>
 </p>
